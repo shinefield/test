@@ -1,0 +1,9 @@
+E:\项目工程\个人开发\文件监视器\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe.config
+E:\项目工程\个人开发\文件监视器\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe
+E:\项目工程\个人开发\文件监视器\FileWatcher\FileWatcher\bin\Debug\FileWatcher.pdb
+E:\项目工程\个人开发\文件监视器\FileWatcher\FileWatcher\obj\Debug\FileWatcher.csprojResolveAssemblyReference.cache
+E:\项目工程\个人开发\文件监视器\FileWatcher\FileWatcher\obj\Debug\FileWatcher.Form1.resources
+E:\项目工程\个人开发\文件监视器\FileWatcher\FileWatcher\obj\Debug\FileWatcher.Properties.Resources.resources
+E:\项目工程\个人开发\文件监视器\FileWatcher\FileWatcher\obj\Debug\FileWatcher.csproj.GenerateResource.Cache
+E:\项目工程\个人开发\文件监视器\FileWatcher\FileWatcher\obj\Debug\FileWatcher.exe
+E:\项目工程\个人开发\文件监视器\FileWatcher\FileWatcher\obj\Debug\FileWatcher.pdb
